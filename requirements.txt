@@ -1,0 +1,6 @@
+Django
+djangorestframework
+djangorestframework-jwt
+pytest
+pytest-django
+pytest-cov
